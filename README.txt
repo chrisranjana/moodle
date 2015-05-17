@@ -22,7 +22,7 @@ a few minutes:
 For more information, see the INSTALL DOCUMENTATION:
 
    http://docs.moodle.org/en/Installing_Moodle
-
+   https://www.chrisranjana.com/custommoodledevelopers/custommoodledevelopers.html
 
 Good luck and have fun!
 Martin Dougiamas, Lead Developer
